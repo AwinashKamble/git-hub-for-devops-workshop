@@ -1,4 +1,4 @@
-Untracked--->Staged--->Tracked
+⦁	Untracked--->Staged--->Tracked
 
 ⦁	git init : to initialize git
 ⦁	git status : to check status of git or files i.e. tracked and untracked
@@ -11,8 +11,12 @@ Untracked--->Staged--->Tracked
 ⦁	git push : push code from local to global i.e. github
 
 
-to add PAT( Personal Access Token)
+⦁	to add PAT( Personal Access Token)
 
 ⦁	git remote set-url origin https://<PAT>@github.com/<ur_repo_name>
 ⦁	then we can use git push cammand : git push -u origin main
 
+⦁	Fork and Clone
+
+⦁	Fork  : Copy GitHub  repo's to another GitHub account
+⦁	Clone : Copy local repo's to GitHub account
