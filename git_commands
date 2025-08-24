@@ -9,15 +9,13 @@
 ⦁	git rm <filename> : to delete file from local
 ⦁	git restore <filename> : to restore deleted file which is saved in Version control system(committed file in git)
 ⦁	git push : push code from local to github 
-⦁  git pull : pill code from github to local
+⦁   git pull : pill code from github to local
 
 
 ⦁	to add PAT( Personal Access Token)
-
 ⦁	git remote set-url origin https://<PAT>@github.com/<ur_repo_name>
 ⦁	then we can use git push cammand : git push -u origin main
 
 ⦁	Fork and Clone
-
 ⦁	Fork  : Copy GitHub  repo's to another GitHub account
 ⦁	Clone : Copy local repo's to GitHub account
