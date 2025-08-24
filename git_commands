@@ -1,0 +1,11 @@
+Untracked--->Staged--->Tracked
+
+⦁	git init : to initialize git
+⦁	git status : to check status of git or files i.e. tracked and untracked
+⦁	git add <filename> : to add single file in git
+⦁	git add . : to add all files   { untracked file to stage }
+⦁	git commit -m "comment" : to save file with comments { Stage File to Tracked File }
+⦁	git rm --cached <file>..." : to un stage a file  means bringing back file to un stage
+⦁	git rm <filename> : to delete file from local
+⦁	git restore <filename> : to restore deleted file which is saved in Version control system(committed file in git)
+⦁	
